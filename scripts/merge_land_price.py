@@ -1,11 +1,11 @@
 """
 merge_land_price.py
 
-2020~2025년 공시지가 CSV 파일을 통합하여
+2020~2024년 공시지가 CSV 파일을 통합하여
 법정동 단위 평균값을 계산한 뒤 processed/ 폴더에 저장하는 스크립트
 
-입력: raw/공시지가_2020.csv ~ 공시지가_2025.csv
-출력: processed/공시지가_2020_2025_통합본.csv
+입력: raw/공시지가_2020.csv ~ 공시지가_2024.csv
+출력: processed/공시지가_2020_2024_통합본.csv
 """
 
 import pandas as pd
@@ -35,4 +35,4 @@ df_merged = reduce(lambda left, right: pd.merge(left, right, on=['시도명', '�
 print(df_merged.head())
 
 # 5. processed 폴더에 저장
-df_merged.to_csv("processed/공시지가_2020_2025_통합본.csv", index=False, encoding='utf-8-sig')
+df_merged.to_csv("processed/공시지가_2020_2024_통합본.csv", index=False, encoding='utf-8-sig')
