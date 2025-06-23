@@ -1,4 +1,4 @@
-# Data-Driven Selection of Optimal Sites for Linear Parks in Seoul
+# Optimal Sites for Linear Parks in Seoul
 
 This project identifies the most suitable districts in Seoul for linear park development using spatial and statistical analysis.
 
