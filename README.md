@@ -1,6 +1,6 @@
-# 🌿 Data-Driven Selection of Optimal Sites for Linear Parks in Seoul
+# Data-Driven Selection of Optimal Sites for Linear Parks in Seoul
 
-By **Youna Park (20210951)**
+By **Youna Park**
 
 ---
 
