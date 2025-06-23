@@ -14,7 +14,7 @@ You can access both the presentation slides and the full report below.
 
 ### 📝 Full Report
 
-- 📘 [Download the full data analysis report (PDF)](./report/Detailed Big Data Report.pdf)
+- 📘 [Download the full data analysis report (PDF)](./report/Detailed_Big_Data_Report.pdf)
 
 ---
 
