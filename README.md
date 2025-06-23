@@ -1,12 +1,27 @@
 # Data-Driven Selection of Optimal Sites for Linear Parks in Seoul
 
-By **Youna Park**
+This project identifies the most suitable districts in Seoul for linear park development using spatial and statistical analysis.
+
+You can access both the presentation slides and the full report below.
 
 ---
 
+## 📂 Project Files
+
+### 🎥 Presentation Materials
+
+- 📄 [View the final presentation (PDF)](./presentation/빅데이터_발표자료.pdf)
+
+### 📝 Full Report
+
+- 📘 [Download the full data analysis report (PDF)](./report/big_data_final_report.pdf)
+
+---
+
+By **Youna Park**
+
 ## 📚 Table of Contents
 
-- [🎥 Presentation Materials](#-presentation-materials)
 - [📌 Overview](#-overview)
 - [🎯 Objective](#-objective)
 - [🛠️ Methodology](#-methodology)
@@ -17,12 +32,7 @@ By **Youna Park**
 - [✅ Final Recommendations](#-final-recommendations)
 - [🧠 Key Insights](#-key-insights)
 
-## 🎥 Presentation Materials
-
-You can find the full presentation files below:
-
-- 📄 [View the final presentation (PDF)](./presentation/참고자료.pdf)
-- 📊 [Download the original slide deck (PPTX)](./presentation/빅데이터_20210951_박유나.pptx)
+---
 
 ## 📌 Overview
 
