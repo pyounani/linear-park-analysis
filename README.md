@@ -10,11 +10,11 @@ You can access both the presentation slides and the full report below.
 
 ### Presentation Materials
 
-- 📄 [View the final presentation (PDF)](./presentation/빅데이터_발표자료.pdf)
+- [View the final presentation (PDF)](./presentation/빅데이터_발표자료.pdf)
 
 ### Full Report
 
-- 📘 [Download the full data analysis report (PDF)](./report/detailed_big_data_report.pdf)
+- [Download the full data analysis report (PDF)](./report/detailed_big_data_report.pdf)
 
 ---
 
