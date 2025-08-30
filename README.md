@@ -8,11 +8,11 @@ You can access both the presentation slides and the full report below.
 
 ## 📂 Project Files
 
-### 🎥 Presentation Materials
+### Presentation Materials
 
 - 📄 [View the final presentation (PDF)](./presentation/빅데이터_발표자료.pdf)
 
-### 📝 Full Report
+### Full Report
 
 - 📘 [Download the full data analysis report (PDF)](./report/detailed_big_data_report.pdf)
 
@@ -22,15 +22,15 @@ By **Youna Park**
 
 ## 📚 Table of Contents
 
-- [📌 Overview](#-overview)
-- [🎯 Objective](#-objective)
-- [🛠️ Methodology](#-methodology)
+- [Overview](#-overview)
+- [Objective](#-objective)
+- [Methodology](#-methodology)
   - [1. Data Collection & Preprocessing](#1-data-collection--preprocessing)
   - [2. Clustering Analysis](#2-clustering-analysis)
   - [3. AHP-based Scoring (Qx)](#3-ahp-based-scoring-qx)
   - [4. Spatial Optimization with INTER Index](#4-spatial-optimization-with-inter-index)
-- [✅ Final Recommendations](#-final-recommendations)
-- [🧠 Key Insights](#-key-insights)
+- [Final Recommendations](#-final-recommendations)
+- [Key Insights](#-key-insights)
 
 ---
 
